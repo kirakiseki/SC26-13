@@ -67,6 +67,10 @@ Tests/
 
 详见 [CLAUDE.md](CLAUDE.md) 获取详细项目文档，[docs/design.md](docs/design.md) 查看完整实现计划与分工。
 
+## 运行须知
+
+首次运行需授予「辅助功能」权限（系统设置 → 隐私与安全性 → 辅助功能），否则无法监听全局键盘事件。
+
 ## 许可证
 
 [MIT](LICENSE)
